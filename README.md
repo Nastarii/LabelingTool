@@ -17,13 +17,13 @@ The Labelling Tool is a software application designed to assist in the process o
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/Nastarii/labelling-tool.git
+    git clone https://github.com/Nastarii/LabelingTool.git
     ```
 
 2. Install the required dependencies:
 
     ```shell
-    cd labelling-tool
+    cd labelingTool
     pip install -r requirements.txt
     ```
 
