@@ -27,7 +27,18 @@ The Labelling Tool is a software application designed to assist in the process o
     pip install -r requirements.txt
     ```
 
-3. Run the application:
+3. Add your dataset on this folder structure:
+
+    ```
+    - src
+    |
+    |-assets
+        |
+        |- imgs/
+        |- masks/
+    ```
+
+4. Run the application:
 
     ```shell
     python main.py
