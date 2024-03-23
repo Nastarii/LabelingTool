@@ -23,7 +23,7 @@ The Labelling Tool is a software application designed to assist in the process o
 2. Install the required dependencies:
 
     ```shell
-    cd labelingTool
+    cd LabelingTool
     pip install -r requirements.txt
     ```
 
